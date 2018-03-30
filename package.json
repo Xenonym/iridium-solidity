@@ -1,0 +1,19 @@
+{
+  "name": "iridium-solidity",
+  "version": "1.0.0",
+  "description": "Solidity source code for Iridium.",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": "github:hawking-projects/iridium-solidity",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hawking-projects",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "zeppelin-solidity": "1.8.0"
+  }
+}
